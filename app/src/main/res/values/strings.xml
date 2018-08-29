@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bluetoothDemo</string>
+    <string name="null_devices_text">设备不支持蓝牙</string>
+</resources>
